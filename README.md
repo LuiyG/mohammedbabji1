@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuiyG
-- 👀 I’m interested in Data analytics and Cuber Security
+- 👀 I’m interested in Software development, Cyber Security and Data analytics
 - 🌱 I’m currently learning PYTHON Scripting, PEN TESTING
 - 💞️ I’m looking to collaborate on Anything i can help you with
 - 📫 How to reach me message me here or shoot me mail
