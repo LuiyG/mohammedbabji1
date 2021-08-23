@@ -1,3 +1,7 @@
+## About me :writing_hand:
+
+#### Who am I?
+
 - 👋 Hi, I’m @LuiyG
 - 👀 I’m interested in Software development, Cyber Security and Data analytics
 - 🌱 I’m currently learning PYTHON Scripting, PEN TESTING
@@ -8,3 +12,8 @@
 mohammedbabji1/mohammedbabji1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+#### Social Media
+You can find me in all these places:
+
+[![mohammed](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedbabji/)
+
